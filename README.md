@@ -2,7 +2,7 @@
 
 **Project 12/20**
 
-**In Precess!**
+A fully CSS-drawn cat head illustration 😺 built using only HTML and CSS. Every part of the cat — from ears to whiskers — is crafted with pure CSS properties like `border`, `transform`, and `border-radius`. This project focuses on precision, creativity, and mastering positioning techniques.
 
 ---
 
@@ -27,25 +27,35 @@
 
 ### 📸 Screenshot
 
-**In Precess!**
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
-**In Precess!**
+ - [🔴 Live Demo](https://dalascript.github.io/cat-painting/)
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/cat-painting)
 
 ### 📌 Features
 
-**In Precess!**
+ - ✅ Fully illustrated cat using pure CSS
+ - ✅ Custom shapes for ears, eyes, nose, and whiskers
+ - ✅ Responsive and centered layout
+ - ✅ Smooth gradients and layering with z-index
+ - ✅ No images or external graphic assets used
 
 ## 🧠 My Process
 
 ### 🛠️ Built with
 
-**In Precess!**
+ - HTML5
+ - CSS3
 
 ### 🎓 What I Learned
 
-**In Precess!**
+ - How to use `border` and `transform` to draw custom shapes
+ - Positioning elements precisely with `absolute` and `z-index`
+ - Crafting complex visual designs without images
+ - Organizing layered components in CSS
+ - Enhancing creativity using only core HTML and CSS
 
   > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
   > rather than learning something entirely new.  
